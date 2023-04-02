@@ -1,0 +1,9 @@
+# This file has two matrices.
+# TEST2 : -M < ../tests/input/sample2.in
+2 2
+1,2,
+3,4,
+
+2 1
+1,
+2,
